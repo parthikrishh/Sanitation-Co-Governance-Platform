@@ -70,11 +70,10 @@ The application can be deployed on Vercel or any Node.js hosting platform that s
 
 ## Author
 
-- Name: Parthi Krish
+- Name: Parthiban K B
 - GitHub: https://github.com/parthikrishh
-- LinkedIn ID: parthikrishh
-- LinkedIn: https://www.linkedin.com/in/parthikrishh/
+- LinkedIn: https://www.linkedin.com/in/parthikrishh
 
 ## License
 
-This project is currently unlicensed. Add a LICENSE file to define usage terms.
+This project is currently unlicensed.
